@@ -1,0 +1,2 @@
+# Hypershot
+Auto-generated repository
